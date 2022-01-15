@@ -16,8 +16,10 @@ output:
   postcards::trestles
 ---
 
+
 ## Bio  
 Dr. José Carlos del Valle is a PhD in Biology that work at the Universityof Seville (Spain). His research has been mainly focused on the importance of non-pollinator mediated selection through the study of flavonoid accumulation in reproductive and vegetative tissues of plants and its implication for plant success in challenging ecosystems. Nevertheless, he has been conducting other research in several topics within the field of Evolutionary Biology, including the study of flower color polymorphism, population genetic and phylogeographic studies.  
+
 
 ## Education
 **Universidad Pablo de Olavide** | Seville, Spain
@@ -32,6 +34,7 @@ MS in Evolutionary Biology | September 2011 - October 2013
 
 B.S. in Environmetal Sciences | September 2003 - July 2008
 
+
 ## Experience
 **Postdoctoral researcher ** | Universidad de Seville (Spain)) | January 2021 - Present
 
@@ -40,4 +43,11 @@ B.S. in Environmetal Sciences | September 2003 - July 2008
 **PhD Student ** | Universidad Pablo de Olavide (Spain) | January 2014 - December 2017
 
 **Research support Technician ** | Universidad Pablo de Olavide (Spain) | March 2013 - December 2013
+
+
+## Most recent publications
+- [Major Flower Pigments Originate Different Colour Signals to Pollinators](https://www.frontiersin.org/articles/10.3389/fevo.2021.743850/full)
+- [Painting the green canvas: how pigments produce flower colours](https://portlandpress.com/biochemist/article/43/3/6/228829/Painting-the-green-canvas-how-pigments-produce)
+- [The effects of pollination, herbivory and autonomous selfing on the maintenance of flower colour variation in *Silene littorea*)](https://onlinelibrary.wiley.com/doi/10.1111/plb.13209)
+- [UV radiation increases phenolic compound protection but decreases reproduction in *Silene littorea*)](https://onlinelibrary.wiley.com/doi/10.1111/plb.13209)
 
