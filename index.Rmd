@@ -7,7 +7,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?hl=en&user=GOQTgMQAAAAJ&view_op=list_works&sortby=pubdate"
   - label: GitHub
-    url: "https://github.com/del-valle/DelValle"
+    url: "https://github.com/del-valle/"
   - label: Twitter
     url: "https://twitter.com"
   - label: Email
@@ -16,8 +16,28 @@ output:
   postcards::trestles
 ---
 
-## About me  
-Over the course of the initial steps of my career, my research has been mainly focused on the importance of non-pollinator mediated selection through the study of flavonoid accumulation in reproductive and vegetative tissues of plants and its implication for plant success in challenging ecosystems. I have also analyzed the plasticity of this phenotypic response, the ecological implications derived from the loss of anthocyanic pigments, and I proposed a non-invasive method to quantify anthocyanic concentrations in flowers of angiosperms by using digital images. Additionally, I have conducted other research involving different subjects, such as the transcriptional regulation of flower color polymorphism, the reconstruction of the phylogenetic relationships of species belonging to *Silene* section *Psammophilae*, or the study of the distribution of genetic diversity in an *Erysimum* species with an island-like distribution using genome skimming and microsatellites approaches, among others.
+## Bio  
+Dr. José Carlos del Valle is a PhD in Biology that work at the Universityof Seville (Spain). His research has been mainly focused on the importance of non-pollinator mediated selection through the study of flavonoid accumulation in reproductive and vegetative tissues of plants and its implication for plant success in challenging ecosystems. Nevertheless, he has been conducting other research in several topics within the field of Evolutionary Biology, including the study of flower color polymorphism, population genetic and phylogeographic studies.  
 
-## Title
-Text
+## Education
+**Universidad Pablo de Olavide** | Seville, Spain
+
+Ph.D. in Biology | January 2014 - April 2018
+
+**Universidad de Sevilla** | Seville, Spain
+
+MS in Evolutionary Biology | September 2011 - October 2013
+
+**Universidad Pablo de Olavide** | Seville, Spain
+
+B.S. in Environmetal Sciences | September 2003 - July 2008
+
+## Experience
+**Postdoctoral researcher ** | Universidad de Seville (Spain)) | January 2021 - Present
+
+**Research support Technician ** | Universidad de Seville (Spain)) | November 2019 - December 2020
+
+**PhD Student ** | Universidad Pablo de Olavide (Spain) | January 2014 - December 2017
+
+**Research support Technician ** | Universidad Pablo de Olavide (Spain) | March 2013 - December 2013
+
