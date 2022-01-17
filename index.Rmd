@@ -1,5 +1,5 @@
 ---
-title: "Jose Carlos del Valle"
+title: "José Carlos del Valle"
 image: "jose_lake.jpg"
 links:
   - label: Research Gate
@@ -18,7 +18,7 @@ output:
 
 
 ## Bio  
-Dr. José Carlos del Valle is a PhD in Biology that work at the University of Seville (Spain). His research has been mainly focused on the importance of non-pollinator mediated selection through the study of flavonoid accumulation in reproductive and vegetative tissues of plants and its implication for plant success in challenging ecosystems. Additionally, he has been conducting other research in others topics within the field of Evolutionary Biology, including the study of flower color polymorphism, population genetic and phylogeographic studies.  
+José Carlos del Valle is a PhD in Biology that works at the University of Seville (Spain). His research has been mainly focused on the importance of non-pollinator mediated selection through the study of flavonoid accumulation in reproductive and vegetative tissues of plants and its implication for plant success in challenging ecosystems. Additionally, he has been conducting other research in others topics within the field of Evolutionary Biology, including the study of flower color polymorphism, population genetic and phylogeographic studies.  
 
 
 ## Education
@@ -36,9 +36,9 @@ B.S. in Environmental Sciences | September 2003 - July 2008
 
 
 ## Experience
-**Postdoctoral researcher ** | Universidad de Seville (Spain)) | January 2021 - Present
+**Postdoctoral researcher ** | Universidad de Seville (Spain) | January 2021 - Present
 
-**Research support Technician ** | Universidad de Seville (Spain)) | November 2019 - December 2020
+**Research support Technician ** | Universidad de Seville (Spain) | November 2019 - December 2020
 
 **PhD Student ** | Universidad Pablo de Olavide (Spain) | January 2014 - December 2017
 
@@ -46,8 +46,8 @@ B.S. in Environmental Sciences | September 2003 - July 2008
 
 
 ## Most recent publications
-- [Major Flower Pigments Originate Different Colour Signals to Pollinators](https://www.frontiersin.org/articles/10.3389/fevo.2021.743850/full)
-- [Painting the green canvas: how pigments produce flower colours](https://portlandpress.com/biochemist/article/43/3/6/228829/Painting-the-green-canvas-how-pigments-produce)
-- [The effects of pollination, herbivory and autonomous selfing on the maintenance of flower colour variation in *Silene littorea*](https://onlinelibrary.wiley.com/doi/10.1111/plb.13209)
-- [UV radiation increases phenolic compound protection but decreases reproduction in *Silene littorea*](https://onlinelibrary.wiley.com/doi/10.1111/plb.13209)
+- [Major Flower Pigments Originate Different Colour Signals to Pollinators (2021)](https://www.frontiersin.org/articles/10.3389/fevo.2021.743850/full)
+- [Painting the green canvas: how pigments produce flower colours (2021)](https://portlandpress.com/biochemist/article/43/3/6/228829/Painting-the-green-canvas-how-pigments-produce)
+- [The effects of pollination, herbivory and autonomous selfing on the maintenance of flower colour variation in *Silene littorea* (2021)](https://onlinelibrary.wiley.com/doi/10.1111/plb.13209)
+- [UV radiation increases phenolic compound protection but decreases reproduction in *Silene littorea* (2020)](https://onlinelibrary.wiley.com/doi/10.1111/plb.13209)
 
