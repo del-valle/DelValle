@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/del-valle/"
   - label: Twitter
-    url: "https://twitter.com"
+    url: "https://twitter.com/JCDELGAR"
   - label: Email
     url: "mailto:jvgarcia@us.es"
 output:
